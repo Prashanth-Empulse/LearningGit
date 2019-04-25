@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //To make Second commit
-        Log.d("To check commit","From Prashanth Laptop Commit");
+        Log.d("To commit","From Prashanth Laptop Commit");
 
     }
 }
